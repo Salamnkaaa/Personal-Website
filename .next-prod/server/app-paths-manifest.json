@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/projects/talqa-operations/page": "app/projects/talqa-operations/page.js",
+  "/projects/b2b-express-delivery/page": "app/projects/b2b-express-delivery/page.js",
+  "/projects/live-chat-system/page": "app/projects/live-chat-system/page.js",
+  "/projects/bike-powered-car-wash-mvp/page": "app/projects/bike-powered-car-wash-mvp/page.js",
+  "/projects/nashmi-cx/page": "app/projects/nashmi-cx/page.js",
+  "/projects/print/page": "app/projects/print/page.js",
+  "/projects/grow-together/page": "app/projects/grow-together/page.js"
+}

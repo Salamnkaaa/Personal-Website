@@ -1,0 +1,90 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-45f3507366015142.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-38b49df12a94ee57.js",
+      "static/chunks/main-app-e2f54ceedd8f14ea.js",
+      "static/chunks/app/_not-found/page-f140596872672702.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-45f3507366015142.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-38b49df12a94ee57.js",
+      "static/chunks/main-app-e2f54ceedd8f14ea.js",
+      "static/css/74d8400a54bf409f.css",
+      "static/chunks/app/layout-0ddd13d6e8ded7d6.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-45f3507366015142.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-38b49df12a94ee57.js",
+      "static/chunks/main-app-e2f54ceedd8f14ea.js",
+      "static/chunks/356-1cdc717d3f90f0f4.js",
+      "static/chunks/619-9168df9c2a29b74b.js",
+      "static/chunks/app/page-b952771bc7af7cd8.js"
+    ],
+    "/projects/talqa-operations/page": [
+      "static/chunks/webpack-45f3507366015142.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-38b49df12a94ee57.js",
+      "static/chunks/main-app-e2f54ceedd8f14ea.js",
+      "static/chunks/356-1cdc717d3f90f0f4.js",
+      "static/chunks/619-9168df9c2a29b74b.js",
+      "static/chunks/app/projects/talqa-operations/page-30b416092fab10c8.js"
+    ],
+    "/projects/b2b-express-delivery/page": [
+      "static/chunks/webpack-45f3507366015142.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-38b49df12a94ee57.js",
+      "static/chunks/main-app-e2f54ceedd8f14ea.js",
+      "static/chunks/356-1cdc717d3f90f0f4.js",
+      "static/chunks/619-9168df9c2a29b74b.js",
+      "static/chunks/app/projects/b2b-express-delivery/page-30b416092fab10c8.js"
+    ],
+    "/projects/live-chat-system/page": [
+      "static/chunks/webpack-45f3507366015142.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-38b49df12a94ee57.js",
+      "static/chunks/main-app-e2f54ceedd8f14ea.js",
+      "static/chunks/356-1cdc717d3f90f0f4.js",
+      "static/chunks/619-9168df9c2a29b74b.js",
+      "static/chunks/app/projects/live-chat-system/page-30b416092fab10c8.js"
+    ],
+    "/projects/bike-powered-car-wash-mvp/page": [
+      "static/chunks/webpack-45f3507366015142.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-38b49df12a94ee57.js",
+      "static/chunks/main-app-e2f54ceedd8f14ea.js",
+      "static/chunks/356-1cdc717d3f90f0f4.js",
+      "static/chunks/619-9168df9c2a29b74b.js",
+      "static/chunks/app/projects/bike-powered-car-wash-mvp/page-30b416092fab10c8.js"
+    ],
+    "/projects/nashmi-cx/page": [
+      "static/chunks/webpack-45f3507366015142.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-38b49df12a94ee57.js",
+      "static/chunks/main-app-e2f54ceedd8f14ea.js",
+      "static/chunks/356-1cdc717d3f90f0f4.js",
+      "static/chunks/619-9168df9c2a29b74b.js",
+      "static/chunks/app/projects/nashmi-cx/page-30b416092fab10c8.js"
+    ],
+    "/projects/print/page": [
+      "static/chunks/webpack-45f3507366015142.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-38b49df12a94ee57.js",
+      "static/chunks/main-app-e2f54ceedd8f14ea.js",
+      "static/chunks/356-1cdc717d3f90f0f4.js",
+      "static/chunks/app/projects/print/page-f4cf227d7c01f02e.js"
+    ],
+    "/projects/grow-together/page": [
+      "static/chunks/webpack-45f3507366015142.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-38b49df12a94ee57.js",
+      "static/chunks/main-app-e2f54ceedd8f14ea.js",
+      "static/chunks/356-1cdc717d3f90f0f4.js",
+      "static/chunks/619-9168df9c2a29b74b.js",
+      "static/chunks/app/projects/grow-together/page-30b416092fab10c8.js"
+    ]
+  }
+}
