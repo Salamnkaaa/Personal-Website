@@ -1,6 +1,6 @@
 {
   "/page": "app/page.js",
   "/projects/b2b-express-delivery/page": "app/projects/b2b-express-delivery/page.js",
-  "/projects/print/page": "app/projects/print/page.js",
-  "/projects/talqa-operations/page": "app/projects/talqa-operations/page.js"
+  "/projects/talqa-operations/page": "app/projects/talqa-operations/page.js",
+  "/projects/print/page": "app/projects/print/page.js"
 }
